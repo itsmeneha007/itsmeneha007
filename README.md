@@ -20,7 +20,6 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 - ✅ Fast learner, seeking **exciting career opportunities** in web development
 - ✅ Looking for roles as a **MERN Stack Developer** to grow my expertise
 
----
 
 ## 🚀 Tech Stack & Tools:
 
@@ -39,7 +38,7 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
+
 
 ## 📊 GitHub Stats:
 
