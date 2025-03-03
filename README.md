@@ -6,7 +6,7 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 - :star: Currently learning DSA
 - :earth_africa:  I hail from Ajmer, Rajasthan.
 - :fire:  Visit my portfolio [https://port4321.netlify.app/] for more details.
-- :email:  You can contact me at [itsmesaroj007@gmail.com](mailto:itsmesaroj007@gmail.com)
+- :email:  You can contact me at [itsmeneha007@gmail.com](mailto:itsmeneha007@gmail.com)
 - :star: My latest project [Croma.com](https://cromas.netlify.app) selected in Top      Project in Masai School
 <br />
 <hr>
@@ -46,7 +46,9 @@ I'm a full-stack web developer skilled in MERN stack. My passion for software li
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itmesaroj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=itmesaroj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+<br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
  <br/>
