@@ -14,13 +14,6 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 
 ---
 
-## 💼 What I Do?  <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50">
-
-- ✅ Aspiring to work as a **programmer**
-- ✅ Fast learner, seeking **exciting career opportunities** in web development
-- ✅ Looking for roles as a **MERN Stack Developer** to grow my expertise
-
-
 ## 🚀 Tech Stack & Tools:
 
 <p align="center">
@@ -38,29 +31,29 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-
+---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=itmesaroj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nehabaghel&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itmesaroj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=itmesaroj&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehabaghel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nehabaghel&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="400px" />
 </p>
 
 ---
 
-## 📬 Connect with Me:
+## 💌 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saroj-choudhary-0021682a9/" target="_blank">
+  <a href="https://www.linkedin.com/in/nehabaghel" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itmesaroj&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehabaghel&theme=dracula" />
 </p>
