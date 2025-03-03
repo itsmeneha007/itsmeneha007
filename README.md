@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Saroj Choudhary</h1>
+<h1 align="center">Hi :wave:, I'm Neha Baghel</h1>
  #### :male-technologist:ABOUT ME:
 <h4 align="center">
 I'm a full-stack web developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms :bulb:..</h4>
