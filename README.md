@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 - 🔥 Currently learning **Data Structures & Algorithms**
 - 🌍 Based in **Ajmer, Rajasthan**
 - 🚀 Check out my portfolio: [Portfolio](https://port4321.netlify.app/)
-- 📩 Reach me at: [itsmeneha007@gmail.com](mailto:itsmeneha007@gmail.com)
+- 📩 Reach me at: [nehabaghel11092003@gmail.com](nehabaghel11092003@gmail.com)
 - 🎯 My latest project **[Croma.com](https://cromas.netlify.app)** was selected among the **Top Projects at Masai School**.
 
 ---
