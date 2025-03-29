@@ -48,11 +48,7 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 
 ## 💌 Connect with Me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nehabaghel" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehabaghel&theme=dracula" />
