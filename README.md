@@ -8,7 +8,7 @@ I'm a passionate Full-Stack Web Developer skilled in the MERN stack. My love for
 
 - 🔥 Currently learning **Data Structures & Algorithms**
 - 🌍 Based in **Ajmer, Rajasthan**
-- 🚀 Check out my portfolio: [Portfolio](https://splendorous-seahorse-492118.netlify.app/)
+- 🚀 Check out my portfolio: [Portfolio](https://visionary-baklava-308094.netlify.app/)
 - 📩 Reach me at: [nehabaghel11092003@gmail.com](nehabaghel11092003@gmail.com)
 - 🎯My latest project [dell.com](https://storied-chebakia-bdc12a.netlify.app/)
 
